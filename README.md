@@ -42,8 +42,6 @@ This project performs the full analysis: statistical hypothesis testing, effect 
 
 \---
 
-## Charts
-
 ## Visualizations
 
 ![Conversion Rate](outputs/01_conversion_rate.png)
