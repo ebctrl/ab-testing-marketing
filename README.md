@@ -44,27 +44,13 @@ This project performs the full analysis: statistical hypothesis testing, effect 
 
 ## Charts
 
-|Chart|Description|
-|-|-|
-|`01\_conversion\_rate.png`|Conversion rate comparison with 95% confidence intervals|
-|`02\_conversion\_by\_day.png`|Conversion rate by day of week|
-|`03\_conversion\_by\_hour.png`|Conversion rate by hour of day|
-|`04\_conversion\_by\_exposure.png`|Dose-response: ads seen vs conversion rate|
-|`05\_heatmap\_day\_hour.png`|Day × hour heatmap of conversion rates|
+## Visualizations
 
-\## Visualizations
-
-
-
-!\[Conversion Rate](outputs/01\_conversion\_rate.png)
-
-!\[Conversion by Day](outputs/02\_conversion\_by\_day.png)
-
-!\[Conversion by Hour](outputs/03\_conversion\_by\_hour.png)
-
-!\[Conversion by Exposure](outputs/04\_conversion\_by\_exposure.png)
-
-!\[Heatmap Day x Hour](outputs/05\_heatmap\_day\_hour.png)
+![Conversion Rate](outputs/01_conversion_rate.png)
+![Conversion by Day](outputs/02_conversion_by_day.png)
+![Conversion by Hour](outputs/03_conversion_by_hour.png)
+![Conversion by Exposure](outputs/04_conversion_by_exposure.png)
+![Heatmap Day x Hour](outputs/05_heatmap_day_hour.png)
 
 \---
 
